@@ -99,5 +99,5 @@ text-align: center;}
 footer{height:40vh;background-color: rgba(0,0,0,0.8);}
 footer div{display: flex;justify-content: space-around;text-align: center;width:320px;margin-left: 40%;}
 footer div a img {background-color: rgba(0,0,0,0.8);}
-hr{text-align: center;width:50%;background-color:#5e5e67;height: 1px; border: 0;}
+footer hr{text-align: center;width:50%;background-color:#5e5e67;height: 1px; border: 0;}
 footer p {text-align: center;color:#5e5e67;font-family: Montserrat,sans-serif;font-size: 13px;}
